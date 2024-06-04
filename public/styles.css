@@ -6,7 +6,7 @@ body {
 
 header {
     background-color: #333;
-    color: white;
+    color: grey;
     padding: 10px 0;
     text-align: center;
 }
@@ -24,7 +24,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: orange;
     text-decoration: none;
 }
 
